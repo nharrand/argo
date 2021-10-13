@@ -1,0 +1,427 @@
+[127.0.0.1] /getHostName -> 
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"xs2a","url":"https://github.com/adorsys/xs2a.git","commit":"33a23ae8a65e9bf439301bbb38f95e3f6e5378f4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"86","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"xs2a","g":"com.googlecode.json-simple","commit":"33a23ae8a65e9bf439301bbb38f95e3f6e5378f4","test1":"true","url":"https:\/\/github.com\/adorsys\/xs2a.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"86","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"adp-userinfo-java","url":"https://github.com/adplabs/adp-userinfo-java.git","commit":"48e513a80a185453fdce96e24be8a915d562529d","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"10","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"adp-userinfo-java","g":"com.googlecode.json-simple","commit":"48e513a80a185453fdce96e24be8a915d562529d","test1":"true","url":"https:\/\/github.com\/adplabs\/adp-userinfo-java.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"10","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"aerogear-parent","url":"https://github.com/aerogear/aerogear-parent.git","commit":"9b5d63afb29983fc1e53544d5fb1aed5ab22946f","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"aerogear-parent","g":"com.googlecode.json-simple","commit":"9b5d63afb29983fc1e53544d5fb1aed5ab22946f","test1":"true","url":"https:\/\/github.com\/aerogear\/aerogear-parent.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"maven-browser","url":"https://github.com/aistomin/maven-browser.git","commit":"c9ec56f8bea48b49df784c1ba16243d01a33f061","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"maven-browser","g":"com.googlecode.json-simple","commit":"c9ec56f8bea48b49df784c1ba16243d01a33f061","test1":"true","url":"https:\/\/github.com\/aistomin\/maven-browser.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"multiline-string-literals","url":"https://github.com/alessio-santacroce/multiline-string-literals.git","commit":"298c0c2b75039de5aef4704da0a4d7efbf358932","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"9","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"multiline-string-literals","g":"com.googlecode.json-simple","commit":"298c0c2b75039de5aef4704da0a4d7efbf358932","test1":"true","url":"https:\/\/github.com\/alessio-santacroce\/multiline-string-literals.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"9","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"ambiverse-nlu","url":"https://github.com/ambiverse-nlu/ambiverse-nlu.git","commit":"d6277c1426ec7f9ce31184028202dcef80eda59d","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"62","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"ambiverse-nlu","g":"com.googlecode.json-simple","commit":"d6277c1426ec7f9ce31184028202dcef80eda59d","test1":"true","url":"https:\/\/github.com\/ambiverse-nlu\/ambiverse-nlu.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"62","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"incubator-plc4x","url":"https://github.com/apache/incubator-plc4x.git","commit":"59cd9d3839dcb6083350144802142360182c59c1","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"incubator-plc4x","g":"com.googlecode.json-simple","commit":"59cd9d3839dcb6083350144802142360182c59c1","test1":"true","url":"https:\/\/github.com\/apache\/incubator-plc4x.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"maven-apache-parent","url":"https://github.com/apache/maven-apache-parent.git","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"maven-apache-parent","g":"com.googlecode.json-simple","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","test1":"true","url":"https:\/\/github.com\/apache\/maven-apache-parent.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"maven-apache-parent","url":"https://github.com/apache/maven-apache-parent.git","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"maven-apache-parent","g":"com.googlecode.json-simple","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","test1":"true","url":"https:\/\/github.com\/apache\/maven-apache-parent.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"plc4x","url":"https://github.com/apache/plc4x.git","commit":"59cd9d3839dcb6083350144802142360182c59c1","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"plc4x","g":"com.googlecode.json-simple","commit":"59cd9d3839dcb6083350144802142360182c59c1","test1":"true","url":"https:\/\/github.com\/apache\/plc4x.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"apigee-config-maven-plugin","url":"https://github.com/apigee/apigee-config-maven-plugin.git","commit":"1427d3a72e39ea813a6f10dac1190f4f113bf4f7","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"apigee-config-maven-plugin","g":"com.googlecode.json-simple","commit":"1427d3a72e39ea813a6f10dac1190f4f113bf4f7","test1":"true","url":"https:\/\/github.com\/apigee\/apigee-config-maven-plugin.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"org.azolla.p.roc","url":"https://github.com/Azollas/org.azolla.p.roc.git","commit":"469d0af0d53715c77a8ca8efaef7efa182d3a495","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"1","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"org.azolla.p.roc","g":"com.googlecode.json-simple","commit":"469d0af0d53715c77a8ca8efaef7efa182d3a495","test1":"true","url":"https:\/\/github.com\/Azollas\/org.azolla.p.roc.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"1","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"CaRoWeb","url":"https://github.com/binfalse/CaRoWeb.git","commit":"ddfda15292bfdb34cc449bea118f0e4fc4433fab","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"CaRoWeb","g":"com.googlecode.json-simple","commit":"ddfda15292bfdb34cc449bea118f0e4fc4433fab","test1":"true","url":"https:\/\/github.com\/binfalse\/CaRoWeb.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Paxtools","url":"https://github.com/BioPAX/Paxtools.git","commit":"a828fca834064d257b87d6a17f865010e85c2cdf","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"146","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Paxtools","g":"com.googlecode.json-simple","commit":"a828fca834064d257b87d6a17f865010e85c2cdf","test1":"true","url":"https:\/\/github.com\/BioPAX\/Paxtools.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"146","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"storm-core-java-api","url":"https://github.com/caofangkun/storm-core-java-api.git","commit":"0814e415b51e617e00b3108d580df0dbc13c2fcd","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"false","test1":"true","nbTests":"146","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"storm-core-java-api","g":"com.googlecode.json-simple","commit":"0814e415b51e617e00b3108d580df0dbc13c2fcd","test1":"true","url":"https:\/\/github.com\/caofangkun\/storm-core-java-api.git","ra":"json-simple-over-json","compile":"false","rg":"se.kth.assert","v":"*","nbTests":"146","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"kura-addons","url":"https://github.com/ctron/kura-addons.git","commit":"4cb2c1f7eddaa0a1b53c353b4540333e5d1925ae","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"kura-addons","g":"com.googlecode.json-simple","commit":"4cb2c1f7eddaa0a1b53c353b4540333e5d1925ae","test1":"true","url":"https:\/\/github.com\/ctron\/kura-addons.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"dandelion-datatables","url":"https://github.com/dandelion/dandelion-datatables.git","commit":"e9b53fb9c1e60c122259776026fc6f2b9e0c1e58","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"277","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"dandelion-datatables","g":"com.googlecode.json-simple","commit":"e9b53fb9c1e60c122259776026fc6f2b9e0c1e58","test1":"true","url":"https:\/\/github.com\/dandelion\/dandelion-datatables.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"277","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"dasein-cloud-google","url":"https://github.com/dasein-cloud/dasein-cloud-google.git","commit":"b3fb45653c5fa88d2e19a5adee388fa66b38d01a","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"dasein-cloud-google","g":"com.googlecode.json-simple","commit":"b3fb45653c5fa88d2e19a5adee388fa66b38d01a","test1":"true","url":"https:\/\/github.com\/dasein-cloud\/dasein-cloud-google.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Dato-Predictive-Service-Client-Java","url":"https://github.com/dato-code/Dato-Predictive-Service-Client-Java.git","commit":"d250b64fc6132caf5232e2625c00f3c9b6765128","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Dato-Predictive-Service-Client-Java","g":"com.googlecode.json-simple","commit":"d250b64fc6132caf5232e2625c00f3c9b6765128","test1":"true","url":"https:\/\/github.com\/dato-code\/Dato-Predictive-Service-Client-Java.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"iiif-server-hymir","url":"https://github.com/dbmdz/iiif-server-hymir.git","commit":"92e14b9e82a0a65961e527b19f516b709255d535","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"false","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"iiif-server-hymir","g":"com.googlecode.json-simple","commit":"92e14b9e82a0a65961e527b19f516b709255d535","test1":"false","url":"https:\/\/github.com\/dbmdz\/iiif-server-hymir.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"test-webdrivers","url":"https://github.com/dev9com/test-webdrivers.git","commit":"42175437b84067eb48c5c66d56829ecfd0f0cd81","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"56","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"test-webdrivers","g":"com.googlecode.json-simple","commit":"42175437b84067eb48c5c66d56829ecfd0f0cd81","test1":"true","url":"https:\/\/github.com\/dev9com\/test-webdrivers.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"56","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"tools","url":"https://github.com/devopology/tools.git","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"tools","g":"com.googlecode.json-simple","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","test1":"true","url":"https:\/\/github.com\/devopology\/tools.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"tools","url":"https://github.com/devopology/tools.git","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"tools","g":"com.googlecode.json-simple","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","test1":"true","url":"https:\/\/github.com\/devopology\/tools.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"oshdb","url":"https://github.com/GIScience/oshdb.git","commit":"d507952eb9f0cd951584cbcc724ae6dd85ae1ed9","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"false","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"oshdb","g":"com.googlecode.json-simple","commit":"d507952eb9f0cd951584cbcc724ae6dd85ae1ed9","test1":"false","url":"https:\/\/github.com\/GIScience\/oshdb.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"gelfj","url":"https://github.com/globocom/gelfj.git","commit":"1893fd9687aedf74b2725a0407e927f94c6fa435","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"27","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"gelfj","g":"com.googlecode.json-simple","commit":"1893fd9687aedf74b2725a0407e927f94c6fa435","test1":"true","url":"https:\/\/github.com\/globocom\/gelfj.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"27","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"hygieia-build-jenkins-collector","url":"https://github.com/Hygieia/hygieia-build-jenkins-collector.git","commit":"88ca26f63647de65fa6b1dbe09dcd9b6df7a156b","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"30","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"hygieia-build-jenkins-collector","g":"com.googlecode.json-simple","commit":"88ca26f63647de65fa6b1dbe09dcd9b6df7a156b","test1":"true","url":"https:\/\/github.com\/Hygieia\/hygieia-build-jenkins-collector.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"30","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"heritrix3","url":"https://github.com/internetarchive/heritrix3.git","commit":"c7c6141ee10967c171dcc3dc193973ed0e5d85a8","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"405","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"heritrix3","g":"com.googlecode.json-simple","commit":"c7c6141ee10967c171dcc3dc193973ed0e5d85a8","test1":"true","url":"https:\/\/github.com\/internetarchive\/heritrix3.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"405","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Automotion","url":"https://github.com/ITArray/Automotion.git","commit":"6ec3898b90437ab81edf5a4a0538ba0a41128229","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"5950","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Automotion","g":"com.googlecode.json-simple","commit":"6ec3898b90437ab81edf5a4a0538ba0a41128229","test1":"true","url":"https:\/\/github.com\/ITArray\/Automotion.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"5950","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"jReddit","url":"https://github.com/karan/jReddit.git","commit":"944789e479ea0bfdb9b1a5082045f0101496a844","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"97","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"jReddit","g":"com.googlecode.json-simple","commit":"944789e479ea0bfdb9b1a5082045f0101496a844","test1":"true","url":"https:\/\/github.com\/karan\/jReddit.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"97","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"flume-ng-sql-source","url":"https://github.com/keedio/flume-ng-sql-source.git","commit":"8425b5585cd18c5f3eb06a9cff6818a04432de65","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"18","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"flume-ng-sql-source","g":"com.googlecode.json-simple","commit":"8425b5585cd18c5f3eb06a9cff6818a04432de65","test1":"true","url":"https:\/\/github.com\/keedio\/flume-ng-sql-source.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"18","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"tika","url":"https://github.com/lafaspot/tika.git","commit":"a7245a0529e1c7fe99b9f6fd2cb564df6fcb3284","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"616","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"tika","g":"com.googlecode.json-simple","commit":"a7245a0529e1c7fe99b9f6fd2cb564df6fcb3284","test1":"true","url":"https:\/\/github.com\/lafaspot\/tika.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"616","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"jts","url":"https://github.com/locationtech/jts.git","commit":"b57d591be10906c1729eeb8a2b7d95d4238c2a66","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"955","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"jts","g":"com.googlecode.json-simple","commit":"b57d591be10906c1729eeb8a2b7d95d4238c2a66","test1":"true","url":"https:\/\/github.com\/locationtech\/jts.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"955","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"papow","url":"https://github.com/martinjedwabny/papow.git","commit":"55f22ac1d23cf080db545a5838402d3470c8688a","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"25","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"papow","g":"com.googlecode.json-simple","commit":"55f22ac1d23cf080db545a5838402d3470c8688a","test1":"true","url":"https:\/\/github.com\/martinjedwabny\/papow.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"25","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"simple_stream","url":"https://github.com/mguymon/simple_stream.git","commit":"d9e62bec4105bf90821527b5032844db6e2d1674","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"9","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"simple_stream","g":"com.googlecode.json-simple","commit":"d9e62bec4105bf90821527b5032844db6e2d1674","test1":"true","url":"https:\/\/github.com\/mguymon\/simple_stream.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"9","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"monkeylearn-java","url":"https://github.com/monkeylearn/monkeylearn-java.git","commit":"c0f29f16475d8519c856da2b8d3594038170f30d","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"1","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"monkeylearn-java","g":"com.googlecode.json-simple","commit":"c0f29f16475d8519c856da2b8d3594038170f30d","test1":"true","url":"https:\/\/github.com\/monkeylearn\/monkeylearn-java.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"1","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"netbase4j","url":"https://github.com/netbase/netbase4j.git","commit":"c4840cb3350eedc5dbe9c3ca767a9e03d878e106","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"2","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"netbase4j","g":"com.googlecode.json-simple","commit":"c4840cb3350eedc5dbe9c3ca767a9e03d878e106","test1":"true","url":"https:\/\/github.com\/netbase\/netbase4j.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"2","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"ShodanScanner","url":"https://github.com/nikos-glikis/ShodanScanner.git","commit":"fbd5319c0678015a6bb807f29d4528de8c55469c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"ShodanScanner","g":"com.googlecode.json-simple","commit":"fbd5319c0678015a6bb807f29d4528de8c55469c","test1":"true","url":"https:\/\/github.com\/nikos-glikis\/ShodanScanner.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"autobahntestsuite-maven-plugin","url":"https://github.com/normanmaurer/autobahntestsuite-maven-plugin.git","commit":"e4b9fcaf8a731364c240ad7e444cc00259e8092f","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"autobahntestsuite-maven-plugin","g":"com.googlecode.json-simple","commit":"e4b9fcaf8a731364c240ad7e444cc00259e8092f","test1":"true","url":"https:\/\/github.com\/normanmaurer\/autobahntestsuite-maven-plugin.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"morphology","url":"https://github.com/peterisp/morphology.git","commit":"4bae746b5c9c67f58bcbf689d273f87ea9f93088","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"261","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"morphology","g":"com.googlecode.json-simple","commit":"4bae746b5c9c67f58bcbf689d273f87ea9f93088","test1":"true","url":"https:\/\/github.com\/peterisp\/morphology.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"261","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Pushraven","url":"https://github.com/Raudius/Pushraven.git","commit":"e1fc960a92fa041aade113327b97091542278bb4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Pushraven","g":"com.googlecode.json-simple","commit":"e1fc960a92fa041aade113327b97091542278bb4","test1":"true","url":"https:\/\/github.com\/Raudius\/Pushraven.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Pushraven","url":"https://github.com/Raudius/Pushraven.git","commit":"e1fc960a92fa041aade113327b97091542278bb4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Pushraven","g":"com.googlecode.json-simple","commit":"e1fc960a92fa041aade113327b97091542278bb4","test1":"true","url":"https:\/\/github.com\/Raudius\/Pushraven.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Pushraven","url":"https://github.com/Raudius/Pushraven.git","commit":"e1fc960a92fa041aade113327b97091542278bb4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Pushraven","g":"com.googlecode.json-simple","commit":"e1fc960a92fa041aade113327b97091542278bb4","test1":"true","url":"https:\/\/github.com\/Raudius\/Pushraven.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"fcm-client","url":"https://github.com/rbertoncelj/fcm-client.git","commit":"a56b22a56e5cc9b499393275affbba63a12b12b6","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"78","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"fcm-client","g":"com.googlecode.json-simple","commit":"a56b22a56e5cc9b499393275affbba63a12b12b6","test1":"true","url":"https:\/\/github.com\/rbertoncelj\/fcm-client.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"78","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"nari","url":"https://github.com/romualdrousseau/nari.git","commit":"2c3ba066bed02fc5e38dff517c2e915c75a86ca7","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"nari","g":"com.googlecode.json-simple","commit":"2c3ba066bed02fc5e38dff517c2e915c75a86ca7","test1":"true","url":"https:\/\/github.com\/romualdrousseau\/nari.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"storm-dynamic-spout","url":"https://github.com/salesforce/storm-dynamic-spout.git","commit":"62d4cbc41f3983b1221eecea00fe34a9bb377c05","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"265","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"storm-dynamic-spout","g":"com.googlecode.json-simple","commit":"62d4cbc41f3983b1221eecea00fe34a9bb377c05","test1":"true","url":"https:\/\/github.com\/salesforce\/storm-dynamic-spout.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"265","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"AssertFixer","url":"https://github.com/STAMP-project/AssertFixer.git","commit":"fddc070bdc4332f7c9e0939ca667464669e3f634","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"15","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"AssertFixer","g":"com.googlecode.json-simple","commit":"fddc070bdc4332f7c9e0939ca667464669e3f634","test1":"true","url":"https:\/\/github.com\/STAMP-project\/AssertFixer.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"15","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"swagger-codegen","url":"https://github.com/swagger-api/swagger-codegen.git","commit":"92f358b8ad6c416fdfee3dd93630edbb73ac7c95","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"swagger-codegen","g":"com.googlecode.json-simple","commit":"92f358b8ad6c416fdfee3dd93630edbb73ac7c95","test1":"true","url":"https:\/\/github.com\/swagger-api\/swagger-codegen.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"takari-pom","url":"https://github.com/takari/takari-pom.git","commit":"f17c2d342bdd5909d400659a048b570160ba957e","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"takari-pom","g":"com.googlecode.json-simple","commit":"f17c2d342bdd5909d400659a048b570160ba957e","test1":"true","url":"https:\/\/github.com\/takari\/takari-pom.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"PeakInvestigator-Java-SDK","url":"https://github.com/Veritomyx/PeakInvestigator-Java-SDK.git","commit":"46c8d9755a7d57d6d0e03eaa9b77893d6d15810c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"31","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"PeakInvestigator-Java-SDK","g":"com.googlecode.json-simple","commit":"46c8d9755a7d57d6d0e03eaa9b77893d6d15810c","test1":"true","url":"https:\/\/github.com\/Veritomyx\/PeakInvestigator-Java-SDK.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"31","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"WWARN-Maps-Surveyor","url":"https://github.com/WorldwideAntimalarialResistanceNetwork/WWARN-Maps-Surveyor.git","commit":"1e961f2160d8f047859d827607ff2a80e24e3632","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"false","test1":"true","nbTests":"31","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"WWARN-Maps-Surveyor","g":"com.googlecode.json-simple","commit":"1e961f2160d8f047859d827607ff2a80e24e3632","test1":"true","url":"https:\/\/github.com\/WorldwideAntimalarialResistanceNetwork\/WWARN-Maps-Surveyor.git","ra":"json-simple-over-json","compile":"false","rg":"se.kth.assert","v":"*","nbTests":"31","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"product-is","url":"https://github.com/wso2/product-is.git","commit":"d8802e3a8c7498c65d6d3359cafe842eb090545a","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"false","test1":"true","nbTests":"31","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"product-is","g":"com.googlecode.json-simple","commit":"d8802e3a8c7498c65d6d3359cafe842eb090545a","test1":"true","url":"https:\/\/github.com\/wso2\/product-is.git","ra":"json-simple-over-json","compile":"false","rg":"se.kth.assert","v":"*","nbTests":"31","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"identity-outbound-auth-inwebo","url":"https://github.com/wso2-extensions/identity-outbound-auth-inwebo.git","commit":"a42932dba7b7c6dbaf646cec0657cb74f7b2bc50","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"identity-outbound-auth-inwebo","g":"com.googlecode.json-simple","commit":"a42932dba7b7c6dbaf646cec0657cb74f7b2bc50","test1":"true","url":"https:\/\/github.com\/wso2-extensions\/identity-outbound-auth-inwebo.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"hs-game-converter","url":"https://github.com/Zero-to-Heroes/hs-game-converter.git","commit":"b716ac2e4dc2a29f394dd853e9a8af53417c3108","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-json","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"3","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"hs-game-converter","g":"com.googlecode.json-simple","commit":"b716ac2e4dc2a29f394dd853e9a8af53417c3108","test1":"true","url":"https:\/\/github.com\/Zero-to-Heroes\/hs-game-converter.git","ra":"json-simple-over-json","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"3","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"xs2a","url":"https://github.com/adorsys/xs2a.git","commit":"33a23ae8a65e9bf439301bbb38f95e3f6e5378f4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"86","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"xs2a","g":"com.googlecode.json-simple","commit":"33a23ae8a65e9bf439301bbb38f95e3f6e5378f4","test1":"true","url":"https:\/\/github.com\/adorsys\/xs2a.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"86","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"adp-userinfo-java","url":"https://github.com/adplabs/adp-userinfo-java.git","commit":"48e513a80a185453fdce96e24be8a915d562529d","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"10","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"adp-userinfo-java","g":"com.googlecode.json-simple","commit":"48e513a80a185453fdce96e24be8a915d562529d","test1":"true","url":"https:\/\/github.com\/adplabs\/adp-userinfo-java.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"10","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"aerogear-parent","url":"https://github.com/aerogear/aerogear-parent.git","commit":"9b5d63afb29983fc1e53544d5fb1aed5ab22946f","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"aerogear-parent","g":"com.googlecode.json-simple","commit":"9b5d63afb29983fc1e53544d5fb1aed5ab22946f","test1":"true","url":"https:\/\/github.com\/aerogear\/aerogear-parent.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"maven-browser","url":"https://github.com/aistomin/maven-browser.git","commit":"c9ec56f8bea48b49df784c1ba16243d01a33f061","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"maven-browser","g":"com.googlecode.json-simple","commit":"c9ec56f8bea48b49df784c1ba16243d01a33f061","test1":"true","url":"https:\/\/github.com\/aistomin\/maven-browser.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"multiline-string-literals","url":"https://github.com/alessio-santacroce/multiline-string-literals.git","commit":"298c0c2b75039de5aef4704da0a4d7efbf358932","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"9","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"multiline-string-literals","g":"com.googlecode.json-simple","commit":"298c0c2b75039de5aef4704da0a4d7efbf358932","test1":"true","url":"https:\/\/github.com\/alessio-santacroce\/multiline-string-literals.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"9","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"ambiverse-nlu","url":"https://github.com/ambiverse-nlu/ambiverse-nlu.git","commit":"d6277c1426ec7f9ce31184028202dcef80eda59d","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"62","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"ambiverse-nlu","g":"com.googlecode.json-simple","commit":"d6277c1426ec7f9ce31184028202dcef80eda59d","test1":"true","url":"https:\/\/github.com\/ambiverse-nlu\/ambiverse-nlu.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"62","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"incubator-plc4x","url":"https://github.com/apache/incubator-plc4x.git","commit":"59cd9d3839dcb6083350144802142360182c59c1","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"incubator-plc4x","g":"com.googlecode.json-simple","commit":"59cd9d3839dcb6083350144802142360182c59c1","test1":"true","url":"https:\/\/github.com\/apache\/incubator-plc4x.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"maven-apache-parent","url":"https://github.com/apache/maven-apache-parent.git","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"maven-apache-parent","g":"com.googlecode.json-simple","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","test1":"true","url":"https:\/\/github.com\/apache\/maven-apache-parent.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"maven-apache-parent","url":"https://github.com/apache/maven-apache-parent.git","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"maven-apache-parent","g":"com.googlecode.json-simple","commit":"4ff31d480ca240a53e7f33ba1a67d8c03851563c","test1":"true","url":"https:\/\/github.com\/apache\/maven-apache-parent.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"plc4x","url":"https://github.com/apache/plc4x.git","commit":"59cd9d3839dcb6083350144802142360182c59c1","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"plc4x","g":"com.googlecode.json-simple","commit":"59cd9d3839dcb6083350144802142360182c59c1","test1":"true","url":"https:\/\/github.com\/apache\/plc4x.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"apigee-config-maven-plugin","url":"https://github.com/apigee/apigee-config-maven-plugin.git","commit":"1427d3a72e39ea813a6f10dac1190f4f113bf4f7","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"apigee-config-maven-plugin","g":"com.googlecode.json-simple","commit":"1427d3a72e39ea813a6f10dac1190f4f113bf4f7","test1":"true","url":"https:\/\/github.com\/apigee\/apigee-config-maven-plugin.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"org.azolla.p.roc","url":"https://github.com/Azollas/org.azolla.p.roc.git","commit":"469d0af0d53715c77a8ca8efaef7efa182d3a495","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"1","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"org.azolla.p.roc","g":"com.googlecode.json-simple","commit":"469d0af0d53715c77a8ca8efaef7efa182d3a495","test1":"true","url":"https:\/\/github.com\/Azollas\/org.azolla.p.roc.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"1","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"CaRoWeb","url":"https://github.com/binfalse/CaRoWeb.git","commit":"ddfda15292bfdb34cc449bea118f0e4fc4433fab","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"CaRoWeb","g":"com.googlecode.json-simple","commit":"ddfda15292bfdb34cc449bea118f0e4fc4433fab","test1":"true","url":"https:\/\/github.com\/binfalse\/CaRoWeb.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Paxtools","url":"https://github.com/BioPAX/Paxtools.git","commit":"a828fca834064d257b87d6a17f865010e85c2cdf","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"146","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Paxtools","g":"com.googlecode.json-simple","commit":"a828fca834064d257b87d6a17f865010e85c2cdf","test1":"true","url":"https:\/\/github.com\/BioPAX\/Paxtools.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"146","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"storm-core-java-api","url":"https://github.com/caofangkun/storm-core-java-api.git","commit":"0814e415b51e617e00b3108d580df0dbc13c2fcd","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"false","test1":"true","nbTests":"146","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"storm-core-java-api","g":"com.googlecode.json-simple","commit":"0814e415b51e617e00b3108d580df0dbc13c2fcd","test1":"true","url":"https:\/\/github.com\/caofangkun\/storm-core-java-api.git","ra":"json-simple-over-gson","compile":"false","rg":"se.kth.assert","v":"*","nbTests":"146","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"kura-addons","url":"https://github.com/ctron/kura-addons.git","commit":"4cb2c1f7eddaa0a1b53c353b4540333e5d1925ae","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"kura-addons","g":"com.googlecode.json-simple","commit":"4cb2c1f7eddaa0a1b53c353b4540333e5d1925ae","test1":"true","url":"https:\/\/github.com\/ctron\/kura-addons.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"dandelion-datatables","url":"https://github.com/dandelion/dandelion-datatables.git","commit":"e9b53fb9c1e60c122259776026fc6f2b9e0c1e58","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"277","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"dandelion-datatables","g":"com.googlecode.json-simple","commit":"e9b53fb9c1e60c122259776026fc6f2b9e0c1e58","test1":"true","url":"https:\/\/github.com\/dandelion\/dandelion-datatables.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"277","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"dasein-cloud-google","url":"https://github.com/dasein-cloud/dasein-cloud-google.git","commit":"b3fb45653c5fa88d2e19a5adee388fa66b38d01a","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"dasein-cloud-google","g":"com.googlecode.json-simple","commit":"b3fb45653c5fa88d2e19a5adee388fa66b38d01a","test1":"true","url":"https:\/\/github.com\/dasein-cloud\/dasein-cloud-google.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Dato-Predictive-Service-Client-Java","url":"https://github.com/dato-code/Dato-Predictive-Service-Client-Java.git","commit":"d250b64fc6132caf5232e2625c00f3c9b6765128","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Dato-Predictive-Service-Client-Java","g":"com.googlecode.json-simple","commit":"d250b64fc6132caf5232e2625c00f3c9b6765128","test1":"true","url":"https:\/\/github.com\/dato-code\/Dato-Predictive-Service-Client-Java.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"iiif-server-hymir","url":"https://github.com/dbmdz/iiif-server-hymir.git","commit":"92e14b9e82a0a65961e527b19f516b709255d535","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"false","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"iiif-server-hymir","g":"com.googlecode.json-simple","commit":"92e14b9e82a0a65961e527b19f516b709255d535","test1":"false","url":"https:\/\/github.com\/dbmdz\/iiif-server-hymir.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"test-webdrivers","url":"https://github.com/dev9com/test-webdrivers.git","commit":"42175437b84067eb48c5c66d56829ecfd0f0cd81","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"56","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"test-webdrivers","g":"com.googlecode.json-simple","commit":"42175437b84067eb48c5c66d56829ecfd0f0cd81","test1":"true","url":"https:\/\/github.com\/dev9com\/test-webdrivers.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"56","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"tools","url":"https://github.com/devopology/tools.git","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"tools","g":"com.googlecode.json-simple","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","test1":"true","url":"https:\/\/github.com\/devopology\/tools.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"tools","url":"https://github.com/devopology/tools.git","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"tools","g":"com.googlecode.json-simple","commit":"ad22bab4dd007f68e94993bc605ded413cc2db47","test1":"true","url":"https:\/\/github.com\/devopology\/tools.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"oshdb","url":"https://github.com/GIScience/oshdb.git","commit":"d507952eb9f0cd951584cbcc724ae6dd85ae1ed9","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"false","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"oshdb","g":"com.googlecode.json-simple","commit":"d507952eb9f0cd951584cbcc724ae6dd85ae1ed9","test1":"false","url":"https:\/\/github.com\/GIScience\/oshdb.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"gelfj","url":"https://github.com/globocom/gelfj.git","commit":"1893fd9687aedf74b2725a0407e927f94c6fa435","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"27","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"gelfj","g":"com.googlecode.json-simple","commit":"1893fd9687aedf74b2725a0407e927f94c6fa435","test1":"true","url":"https:\/\/github.com\/globocom\/gelfj.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"27","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"hygieia-build-jenkins-collector","url":"https://github.com/Hygieia/hygieia-build-jenkins-collector.git","commit":"88ca26f63647de65fa6b1dbe09dcd9b6df7a156b","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"30","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"hygieia-build-jenkins-collector","g":"com.googlecode.json-simple","commit":"88ca26f63647de65fa6b1dbe09dcd9b6df7a156b","test1":"true","url":"https:\/\/github.com\/Hygieia\/hygieia-build-jenkins-collector.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"30","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"heritrix3","url":"https://github.com/internetarchive/heritrix3.git","commit":"c7c6141ee10967c171dcc3dc193973ed0e5d85a8","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"405","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"heritrix3","g":"com.googlecode.json-simple","commit":"c7c6141ee10967c171dcc3dc193973ed0e5d85a8","test1":"true","url":"https:\/\/github.com\/internetarchive\/heritrix3.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"405","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Automotion","url":"https://github.com/ITArray/Automotion.git","commit":"6ec3898b90437ab81edf5a4a0538ba0a41128229","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"5950","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Automotion","g":"com.googlecode.json-simple","commit":"6ec3898b90437ab81edf5a4a0538ba0a41128229","test1":"true","url":"https:\/\/github.com\/ITArray\/Automotion.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"5950","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"jReddit","url":"https://github.com/karan/jReddit.git","commit":"944789e479ea0bfdb9b1a5082045f0101496a844","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"97","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"jReddit","g":"com.googlecode.json-simple","commit":"944789e479ea0bfdb9b1a5082045f0101496a844","test1":"true","url":"https:\/\/github.com\/karan\/jReddit.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"97","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"flume-ng-sql-source","url":"https://github.com/keedio/flume-ng-sql-source.git","commit":"8425b5585cd18c5f3eb06a9cff6818a04432de65","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"18","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"flume-ng-sql-source","g":"com.googlecode.json-simple","commit":"8425b5585cd18c5f3eb06a9cff6818a04432de65","test1":"true","url":"https:\/\/github.com\/keedio\/flume-ng-sql-source.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"18","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"tika","url":"https://github.com/lafaspot/tika.git","commit":"a7245a0529e1c7fe99b9f6fd2cb564df6fcb3284","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"616","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"tika","g":"com.googlecode.json-simple","commit":"a7245a0529e1c7fe99b9f6fd2cb564df6fcb3284","test1":"true","url":"https:\/\/github.com\/lafaspot\/tika.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"616","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"jts","url":"https://github.com/locationtech/jts.git","commit":"b57d591be10906c1729eeb8a2b7d95d4238c2a66","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"955","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"jts","g":"com.googlecode.json-simple","commit":"b57d591be10906c1729eeb8a2b7d95d4238c2a66","test1":"true","url":"https:\/\/github.com\/locationtech\/jts.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"955","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"papow","url":"https://github.com/martinjedwabny/papow.git","commit":"55f22ac1d23cf080db545a5838402d3470c8688a","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"25","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"papow","g":"com.googlecode.json-simple","commit":"55f22ac1d23cf080db545a5838402d3470c8688a","test1":"true","url":"https:\/\/github.com\/martinjedwabny\/papow.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"25","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"simple_stream","url":"https://github.com/mguymon/simple_stream.git","commit":"d9e62bec4105bf90821527b5032844db6e2d1674","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"9","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"simple_stream","g":"com.googlecode.json-simple","commit":"d9e62bec4105bf90821527b5032844db6e2d1674","test1":"true","url":"https:\/\/github.com\/mguymon\/simple_stream.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"9","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"monkeylearn-java","url":"https://github.com/monkeylearn/monkeylearn-java.git","commit":"c0f29f16475d8519c856da2b8d3594038170f30d","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"1","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"monkeylearn-java","g":"com.googlecode.json-simple","commit":"c0f29f16475d8519c856da2b8d3594038170f30d","test1":"true","url":"https:\/\/github.com\/monkeylearn\/monkeylearn-java.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"1","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"netbase4j","url":"https://github.com/netbase/netbase4j.git","commit":"c4840cb3350eedc5dbe9c3ca767a9e03d878e106","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"2","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"netbase4j","g":"com.googlecode.json-simple","commit":"c4840cb3350eedc5dbe9c3ca767a9e03d878e106","test1":"true","url":"https:\/\/github.com\/netbase\/netbase4j.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"2","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"ShodanScanner","url":"https://github.com/nikos-glikis/ShodanScanner.git","commit":"fbd5319c0678015a6bb807f29d4528de8c55469c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"ShodanScanner","g":"com.googlecode.json-simple","commit":"fbd5319c0678015a6bb807f29d4528de8c55469c","test1":"true","url":"https:\/\/github.com\/nikos-glikis\/ShodanScanner.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"autobahntestsuite-maven-plugin","url":"https://github.com/normanmaurer/autobahntestsuite-maven-plugin.git","commit":"e4b9fcaf8a731364c240ad7e444cc00259e8092f","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"autobahntestsuite-maven-plugin","g":"com.googlecode.json-simple","commit":"e4b9fcaf8a731364c240ad7e444cc00259e8092f","test1":"true","url":"https:\/\/github.com\/normanmaurer\/autobahntestsuite-maven-plugin.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"morphology","url":"https://github.com/peterisp/morphology.git","commit":"4bae746b5c9c67f58bcbf689d273f87ea9f93088","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"261","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"morphology","g":"com.googlecode.json-simple","commit":"4bae746b5c9c67f58bcbf689d273f87ea9f93088","test1":"true","url":"https:\/\/github.com\/peterisp\/morphology.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"261","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Pushraven","url":"https://github.com/Raudius/Pushraven.git","commit":"e1fc960a92fa041aade113327b97091542278bb4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Pushraven","g":"com.googlecode.json-simple","commit":"e1fc960a92fa041aade113327b97091542278bb4","test1":"true","url":"https:\/\/github.com\/Raudius\/Pushraven.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Pushraven","url":"https://github.com/Raudius/Pushraven.git","commit":"e1fc960a92fa041aade113327b97091542278bb4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Pushraven","g":"com.googlecode.json-simple","commit":"e1fc960a92fa041aade113327b97091542278bb4","test1":"true","url":"https:\/\/github.com\/Raudius\/Pushraven.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"Pushraven","url":"https://github.com/Raudius/Pushraven.git","commit":"e1fc960a92fa041aade113327b97091542278bb4","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"Pushraven","g":"com.googlecode.json-simple","commit":"e1fc960a92fa041aade113327b97091542278bb4","test1":"true","url":"https:\/\/github.com\/Raudius\/Pushraven.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"fcm-client","url":"https://github.com/rbertoncelj/fcm-client.git","commit":"a56b22a56e5cc9b499393275affbba63a12b12b6","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"78","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"fcm-client","g":"com.googlecode.json-simple","commit":"a56b22a56e5cc9b499393275affbba63a12b12b6","test1":"true","url":"https:\/\/github.com\/rbertoncelj\/fcm-client.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"78","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"nari","url":"https://github.com/romualdrousseau/nari.git","commit":"2c3ba066bed02fc5e38dff517c2e915c75a86ca7","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"nari","g":"com.googlecode.json-simple","commit":"2c3ba066bed02fc5e38dff517c2e915c75a86ca7","test1":"true","url":"https:\/\/github.com\/romualdrousseau\/nari.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"storm-dynamic-spout","url":"https://github.com/salesforce/storm-dynamic-spout.git","commit":"62d4cbc41f3983b1221eecea00fe34a9bb377c05","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"265","testTransformed":"false"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"storm-dynamic-spout","g":"com.googlecode.json-simple","commit":"62d4cbc41f3983b1221eecea00fe34a9bb377c05","test1":"true","url":"https:\/\/github.com\/salesforce\/storm-dynamic-spout.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"265","testTransformed":"false"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"AssertFixer","url":"https://github.com/STAMP-project/AssertFixer.git","commit":"fddc070bdc4332f7c9e0939ca667464669e3f634","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"15","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"AssertFixer","g":"com.googlecode.json-simple","commit":"fddc070bdc4332f7c9e0939ca667464669e3f634","test1":"true","url":"https:\/\/github.com\/STAMP-project\/AssertFixer.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"15","testTransformed":"true"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"swagger-codegen","url":"https://github.com/swagger-api/swagger-codegen.git","commit":"92f358b8ad6c416fdfee3dd93630edbb73ac7c95","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"swagger-codegen","g":"com.googlecode.json-simple","commit":"92f358b8ad6c416fdfee3dd93630edbb73ac7c95","test1":"true","url":"https:\/\/github.com\/swagger-api\/swagger-codegen.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true"}
+[127.0.0.1] /getHostName -> 
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"takari-pom","url":"https://github.com/takari/takari-pom.git","commit":"f17c2d342bdd5909d400659a048b570160ba957e","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"true", "nbDepToReplaced":"0"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"takari-pom","g":"com.googlecode.json-simple","commit":"f17c2d342bdd5909d400659a048b570160ba957e","test1":"true","url":"https:\/\/github.com\/takari\/takari-pom.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"true","nbDepToReplaced":"0"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"PeakInvestigator-Java-SDK","url":"https://github.com/Veritomyx/PeakInvestigator-Java-SDK.git","commit":"46c8d9755a7d57d6d0e03eaa9b77893d6d15810c","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"31","testTransformed":"false", "nbDepToReplaced":"1"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"PeakInvestigator-Java-SDK","g":"com.googlecode.json-simple","commit":"46c8d9755a7d57d6d0e03eaa9b77893d6d15810c","test1":"true","url":"https:\/\/github.com\/Veritomyx\/PeakInvestigator-Java-SDK.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"31","testTransformed":"false","nbDepToReplaced":"1"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"WWARN-Maps-Surveyor","url":"https://github.com/WorldwideAntimalarialResistanceNetwork/WWARN-Maps-Surveyor.git","commit":"1e961f2160d8f047859d827607ff2a80e24e3632","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"false","test1":"true","nbTests":"31","testTransformed":"false", "nbDepToReplaced":"1"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"WWARN-Maps-Surveyor","g":"com.googlecode.json-simple","commit":"1e961f2160d8f047859d827607ff2a80e24e3632","test1":"true","url":"https:\/\/github.com\/WorldwideAntimalarialResistanceNetwork\/WWARN-Maps-Surveyor.git","ra":"json-simple-over-gson","compile":"false","rg":"se.kth.assert","v":"*","nbTests":"31","testTransformed":"false","nbDepToReplaced":"1"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"product-is","url":"https://github.com/wso2/product-is.git","commit":"d8802e3a8c7498c65d6d3359cafe842eb090545a","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"false","test1":"true","nbTests":"31","testTransformed":"false", "nbDepToReplaced":"1"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"product-is","g":"com.googlecode.json-simple","commit":"d8802e3a8c7498c65d6d3359cafe842eb090545a","test1":"true","url":"https:\/\/github.com\/wso2\/product-is.git","ra":"json-simple-over-gson","compile":"false","rg":"se.kth.assert","v":"*","nbTests":"31","testTransformed":"false","nbDepToReplaced":"1"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"identity-outbound-auth-inwebo","url":"https://github.com/wso2-extensions/identity-outbound-auth-inwebo.git","commit":"a42932dba7b7c6dbaf646cec0657cb74f7b2bc50","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"0","testTransformed":"false", "nbDepToReplaced":"1"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"identity-outbound-auth-inwebo","g":"com.googlecode.json-simple","commit":"a42932dba7b7c6dbaf646cec0657cb74f7b2bc50","test1":"true","url":"https:\/\/github.com\/wso2-extensions\/identity-outbound-auth-inwebo.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"0","testTransformed":"false","nbDepToReplaced":"1"}
+[127.0.0.1] /getConfiguration -> 
+[127.0.0.1] /postResult -> {"repo":"hs-game-converter","url":"https://github.com/Zero-to-Heroes/hs-game-converter.git","commit":"b716ac2e4dc2a29f394dd853e9a8af53417c3108","g":"com.googlecode.json-simple","a":"json-simple","v":"*","rg":"se.kth.assert","ra":"json-simple-over-gson","rv":"1.0-SNAPSHOT","compile":"true","test1":"true","nbTests":"3","testTransformed":"true", "nbDepToReplaced":"1"}
+
+[Worker-1]{"a":"json-simple","rv":"1.0-SNAPSHOT","repo":"hs-game-converter","g":"com.googlecode.json-simple","commit":"b716ac2e4dc2a29f394dd853e9a8af53417c3108","test1":"true","url":"https:\/\/github.com\/Zero-to-Heroes\/hs-game-converter.git","ra":"json-simple-over-gson","compile":"true","rg":"se.kth.assert","v":"*","nbTests":"3","testTransformed":"true","nbDepToReplaced":"1"}
+

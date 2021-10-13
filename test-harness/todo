@@ -1,0 +1,12 @@
+## Worker
+
+Worker's tasks:
+
+ * Pull configuration from dispatcher
+ * Run configuration
+ * report back (log & results)
+
+Needs:
+
+ * Bridges jar
+ * be able to pool test subject code and set it to proper commit

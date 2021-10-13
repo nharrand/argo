@@ -1,0 +1,62 @@
+package com.fasterxml.jackson.databind.introspect;
+
+import javax.measure.Measure;
+
+import java.util.List;
+
+import com.fasterxml.jackson.databind.BaseMapTest;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.junit.Ignore;
+
+// Tests for [databind#636]
+@Ignore
+public class NoClassDefFoundWorkaroundTest extends BaseMapTest
+{
+    public static class Parent {
+        public List<Child> child;
+    }
+
+    public static class Child {
+        public Measure<?> measure;
+    }
+
+    public void testClassIsMissing()
+    {
+        try {
+            Class.forName("javax.measure.Measure");
+//ARGO_PLACEBO
+fail("Should not have found javax.measure.Measure");
+        } catch (ClassNotFoundException ex) {
+            ; // expected case
+        }
+    }
+
+    public void testDeserialize() throws Exception
+    {
+        ObjectMapper m = new ObjectMapper();
+        Parent result = null;
+
+        try {
+            result = m.readValue(" { } ", Parent.class);
+        } catch (Exception e) {
+//ARGO_PLACEBO
+fail("Should not have had issues, got: "+e);
+        }
+//ARGO_PLACEBO
+assertNotNull(result);
+    }
+
+    public void testUseMissingClass() throws Exception
+    {
+        boolean missing = false;
+        try {
+            ObjectMapper m = new ObjectMapper();
+            m.readValue(" { \"child\" : [{}] } ", Parent.class);
+            System.out.println("");
+        } catch (NoClassDefFoundError ex) {
+            missing = true;
+        }
+//ARGO_PLACEBO
+assertTrue("cannot instantiate a missing class", missing);
+    }
+}
